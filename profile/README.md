@@ -1,6 +1,7 @@
 # Welcome, Dear Tutors!
 ## About Me
 My name is Boyu Li, and here is a picture of me, and btw have a great day!
+![](selfie.jpeg)
 
 ## About us
 This IS the place for us to know each other, and more importantly, to have some fun!
